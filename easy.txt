@@ -1,0 +1,39 @@
+
+           
+
+
+BLACK 7
+RED        6
+
+RED 7
+ 
+
+
+  BLACK Q
+RED J
+RED            3
+BLACK        5
+BLACK 4
+
+  RED      A
+
+    RED   5
+BLACK 2
+    BLACK 6
+RED 10
+
+BLACK A
+   RED 9
+    RED 2 
+BLACK 3
+    BLACK   10
+
+BLACK J
+    
+BLACK 8
+  RED       8
+         RED Q
+    RED K
+    BLACK 9
+ RED 4
+BLACK    K
